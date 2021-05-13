@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ATT_TEACHER</string>
+    <string-array name="setColl">SELECT COLLEGE
+        <item>SELECT COLLEGE</item>
+        <item>CACHAR COLLEGE</item>
+    </string-array>
+    <string-array name="setDept">SELECT DEPARTMENT
+        <item>SELECT DEPARTMENT</item>
+        <item>ARTS</item>
+        <item>COMMERCE</item>
+        <item>SCIENCE</item>
+    </string-array>
+    <string-array name="SETSEMESTER">Set Sem/Year
+        <item>SELECT SEMESTER</item>
+        <item>CBCS_1ST_SEM</item>
+        <item>CBCS_2ND_SEM</item>
+        <item>CBCS_3RD_SEM</item>
+        <item>CBCS_4TH_SEM</item>
+        <item>CBCS_5TH_SEM</item>
+        <item>CBCS_6TH_SEM</item>
+    </string-array>
+    <string-array name="SETCOURSE">Set Sem/Year
+        <item>SELECT COURSE TYPE</item>
+        <item>HONOURS</item>
+        <item>GENERAL</item>
+    </string-array>
+</resources>
